@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1618816681 source:d:\zapps\info\atestat\main.cpp
+	<iostream>
+	<string.h>
+	"quiz.h"
+	"tomb.h"
+	"tap3.h"
+	"memory.h"
+	"rpg.h"
+	"g2048.h"
+
+1618819813 d:\zapps\info\atestat\quiz.h
+	<iostream>
+	<string.h>
+
+1615800096 source:d:\zapps\info\atestat\quiz.c
+	<string.h>
+
+1618816997 d:\zapps\info\atestat\tomb.h
+	<iostream>
+	<fstream>
+
+1619646070 d:\zapps\info\atestat\tap3.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1618823669 d:\zapps\info\atestat\memory.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1618821476 d:\zapps\info\atestat\rpg.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1618822511 d:\zapps\info\atestat\g2048.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1619639080 source:d:\documents\jocuriliceu\atestat\program c++\main.cpp
+	<iostream>
+	<string.h>
+	"quiz.h"
+	"tomb.h"
+	"tap3.h"
+	"memory.h"
+	"rpg.h"
+	"g2048.h"
+
+1618812613 d:\documents\jocuriliceu\atestat\program c++\quiz.h
+	<iostream>
+	<string.h>
+
+1618809797 d:\documents\jocuriliceu\atestat\program c++\tomb.h
+	<iostream>
+	<fstream>
+
+1619638870 d:\documents\jocuriliceu\atestat\program c++\tap3.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1618816469 d:\documents\jocuriliceu\atestat\program c++\memory.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1618814276 d:\documents\jocuriliceu\atestat\program c++\rpg.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1618815311 d:\documents\jocuriliceu\atestat\program c++\g2048.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1615796496 source:d:\documents\jocuriliceu\atestat\program c++\quiz.c
+	<string.h>
+
